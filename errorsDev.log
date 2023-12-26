@@ -1,0 +1,64 @@
+error: undefined {"code":"ERR_HTTP_HEADERS_SENT"}
+error: undefined
+error: undefined
+error: undefined
+error: undefined
+error: undefined
+error: undefined
+error: undefined
+error: undefined
+error: undefined
+error: undefined
+error: undefined
+error: undefined
+error: undefined
+error: undefined
+error: undefined {"kind":"date","path":"last_conecction","reason":{"actual":false,"code":"ERR_ASSERTION","expected":true,"generatedMessage":true,"operator":"=="},"stringValue":"\"Invalid Date\"","value":null,"valueType":"Date"}
+error: undefined {"kind":"date","path":"last_conecction","reason":{"actual":false,"code":"ERR_ASSERTION","expected":true,"generatedMessage":true,"operator":"=="},"stringValue":"\"Invalid Date\"","value":null,"valueType":"Date"}
+error: undefined
+error: undefined
+error: undefined
+error: undefined
+error: undefined
+error: undefined
+error: undefined
+error: undefined
+error: undefined {"kind":"ObjectId","path":"_id","reason":{},"stringValue":"\":65021452873f6c96069bfc00\"","value":":65021452873f6c96069bfc00","valueType":"string"}
+error: undefined {"kind":"ObjectId","path":"_id","reason":{},"stringValue":"\":650137a5e01d4d3c3ec129ff\"","value":":650137a5e01d4d3c3ec129ff","valueType":"string"}
+error: undefined {"kind":"ObjectId","path":"_id","reason":{},"stringValue":"\":650137a5e01d4d3c3ec129ff\"","value":":650137a5e01d4d3c3ec129ff","valueType":"string"}
+error: undefined
+error: undefined
+error: undefined
+error: undefined
+error: undefined
+error: undefined
+error: undefined
+error: undefined
+error: undefined
+error: undefined
+error: undefined
+error: undefined
+error: undefined
+error: undefined
+error: undefined
+error: undefined
+error: undefined
+error: undefined
+error: undefined
+error: undefined
+error: undefined
+error: undefined
+error: undefined
+error: undefined
+error: undefined
+error: undefined
+error: undefined
+error: undefined
+error: undefined
+error: undefined
+error: undefined
+error: undefined
+error: undefined
+error: undefined
+error: undefined {"_message":"tickets validation failed","errors":{"amount":{"kind":"Number","message":"Cast to Number failed for value \"$0\" (type string) at path \"amount\"","name":"CastError","path":"amount","reason":{"actual":false,"code":"ERR_ASSERTION","expected":true,"generatedMessage":true,"operator":"=="},"stringValue":"\"$0\"","value":"$0","valueType":"string"}}}
+error: undefined {"_message":"tickets validation failed","errors":{"amount":{"kind":"Number","message":"Cast to Number failed for value \"$0\" (type string) at path \"amount\"","name":"CastError","path":"amount","reason":{"actual":false,"code":"ERR_ASSERTION","expected":true,"generatedMessage":true,"operator":"=="},"stringValue":"\"$0\"","value":"$0","valueType":"string"}}}
