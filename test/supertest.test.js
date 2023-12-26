@@ -9,7 +9,7 @@ describe('Supertest de Proyecto Final', () => {
         let cookie
         it('El endpoint de POST /api/session/login debe validar los datos y setear una cookie', async () => {
             const userMock = {
-                email: 'gdelucchi@me.com',
+                email: 'mparano@me.com',
                 password: '1234'
             }
 
